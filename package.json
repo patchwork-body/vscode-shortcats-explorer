@@ -1,0 +1,17 @@
+{
+  "name": "vscode-shortcats-explorer",
+  "version": "0.0.1",
+  "description": "extension for vscode",
+  "main": "src/extension.ts",
+  "repository": "https://github.com/patchwork-body/vscode-shortcats-explorer.git",
+  "author": "gugfug gugfug1@gmail.com",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "prettier": "^2.3.1",
+    "typescript": "^4.3.2"
+  },
+  "dependencies": {
+    "vscode": "^1.1.37"
+  }
+}
